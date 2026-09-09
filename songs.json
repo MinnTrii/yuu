@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "updated_at": "",
+  "songs": [
+    {
+      "id": "song-001",
+      "title": "",
+      "artist": "",
+      "album": "",
+      "cover": "",
+      "audio": "",
+      "lyrics": "",
+      "video": "",
+      "duration": 0,
+      "genre": "",
+      "year": 0
+    }
+  ]
+}
