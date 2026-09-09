@@ -1,19 +1,1149 @@
-{
-  "version": 1,
-  "updated_at": "",
-  "songs": [
-    {
-      "id": "song-001",
-      "title": "",
-      "artist": "",
-      "album": "",
-      "cover": "",
-      "audio": "",
-      "lyrics": "",
-      "video": "",
-      "duration": 0,
-      "genre": "",
-      "year": 0
-    }
-  ]
-}
+[
+  {
+    "id": "1",
+    "ten_tac_pham": "Thu đợi",
+    "tac_gia_1": "Wren Evans",
+    "tac_gia_2": "itsnk",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/WREN%20EVANS%20-%20THU%20%C4%90%E1%BB%A2I%20-%20OFFICIAL%20LYRICS%20VIDEO%20(ft.%20itsnk).mp3",
+    "link_anh": "https://photo-resize-zmp3.zmdcdn.me/w256_r1x1_jpeg/cover/b/6/2/5/b625f7bc77ed3288772b1f2d4ce0d890.jpg",
+    "link_video_nen": "",
+    "link_lyric": "https://raw.githubusercontent.com/duongminhtri784-creator/lyric-yuu/00484b03d5e2bb832bf1298e80e4438df9f3fa06/WREN%20EVANS%20-%20THU%20%C4%90%E1%BB%A2I%20-%20OFFICIAL%20LYRICS%20VIDEO%20(ft.%20itsnk)%20-%20YouTube%20(Vietnamese).srt",
+    "thoi_diem_diep_khuc": "80",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Wren Evans",
+      "itsnk"
+    ]
+  },
+  {
+    "id": "2",
+    "ten_tac_pham": "144",
+    "tac_gia_1": "Wren Evans",
+    "tac_gia_2": "itsnk",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/871423751d769de3164f880972197e0911331020/WREN%20EVANS%20-%20144%20-%20N%E1%BB%94%20The%20Album%20(ft.%20itsnk).mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d00001e02750aac5d676642cdc00abf6a",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "68",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Wren Evans",
+      "itsnk"
+    ]
+  },
+  {
+    "id": "3",
+    "ten_tac_pham": "Chờ Trong Trăng",
+    "tac_gia_1": "Wren Evans",
+    "tac_gia_2": "itsnk",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/871423751d769de3164f880972197e0911331020/WREN%20EVANS%20-%20Ch%E1%BB%9D%20Trong%20Tr%C4%83ng%20-%20N%E1%BB%94%20The%20Album%20(ft.%20itsnk).mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d00001e02750aac5d676642cdc00abf6a",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "66",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Wren Evans",
+      "itsnk"
+    ]
+  },
+  {
+    "id": "4",
+    "ten_tac_pham": "Không Thử Sao Biết",
+    "tac_gia_1": "Wren Evans",
+    "tac_gia_2": "itsnk",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/871423751d769de3164f880972197e0911331020/WREN%20EVANS%20-%20Kh%C3%B4ng%20Th%E1%BB%AD%20Sao%20Bi%E1%BA%BFt%20-%20N%E1%BB%94%20The%20Album%20(ft.%20itsnk).mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d00001e02750aac5d676642cdc00abf6a",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "31",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Wren Evans",
+      "itsnk"
+    ]
+  },
+  {
+    "id": "5",
+    "ten_tac_pham": "Ngủ Quên",
+    "tac_gia_1": "Wren Evans",
+    "tac_gia_2": "itsnk",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/871423751d769de3164f880972197e0911331020/WREN%20EVANS%20-%20Ng%E1%BB%A7%20Qu%C3%AAn%20-%20N%E1%BB%94%20The%20Album%20(ft.%20itsnk).mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d00001e02750aac5d676642cdc00abf6a",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "47",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Wren Evans",
+      "itsnk"
+    ]
+  },
+  {
+    "id": "6",
+    "ten_tac_pham": "Gắn bó né tránh sợ hãi",
+    "tac_gia_1": "Wren Evans",
+    "tac_gia_2": "itsnk",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/871423751d769de3164f880972197e0911331020/WREN%20EVANS%20-%20g%E1%BA%AFn%20b%C3%B3%20n%C3%A9%20tr%C3%A1nh%20s%E1%BB%A3%20h%C3%A3i%20(interlude)%20-%20N%E1%BB%94%20The%20Album%20(ft.%20itsnk).mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d00001e02750aac5d676642cdc00abf6a",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Wren Evans",
+      "itsnk"
+    ]
+  },
+  {
+    "id": "7",
+    "ten_tac_pham": "Không Buông",
+    "tac_gia_1": "Hngle",
+    "tac_gia_2": "Ari",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/c30873c02d1c0f33228d8ac8fd5b675fd3b2e8d2/Hngle%20-%20DO%20NOT%20LET%20GO%20ft.%20Ari%20-%20Official%20Music%20Video%20-%20YouTube.mp3",
+    "link_anh": "https://photo-resize-zmp3.zmdcdn.me/w256_r1x1_jpeg/cover/b/7/b/1/b7b1a47096c2d8ac786da78c7fe6c987.jpg",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "55",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Hngle",
+      "Ari"
+    ]
+  },
+  {
+    "id": "8",
+    "ten_tac_pham": "Buông",
+    "tac_gia_1": "Hngle",
+    "tac_gia_2": "Ari",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/Hngle%20-%20Bu%C3%B4ng%20-%20Official%20Music%20Video%20-%20YouTube.mp3",
+    "link_anh": "https://i.ytimg.com/vi/WqVkuJehQ4w/maxresdefault.jpg",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "75",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Hngle",
+      "Ari"
+    ]
+  },
+  {
+    "id": "9",
+    "ten_tac_pham": "Gió Đưa Tình",
+    "tac_gia_1": "Wren Evans",
+    "tac_gia_2": "itsnk",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/WREN%20EVANS%20-%20Gi%C3%B3%20%C4%90%C6%B0a%20T%C3%ACnh%20-%20N%E1%BB%94%20The%20Album%20(ft.%20itsnk).mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d00001e02750aac5d676642cdc00abf6a",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Wren Evans",
+      "itsnk"
+    ]
+  },
+  {
+    "id": "10",
+    "ten_tac_pham": "Nổ không",
+    "tac_gia_1": "Wren Evans",
+    "tac_gia_2": "itsnk",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/WREN%20EVANS%20-%20N%E1%BB%95%20kh%C3%B4ng-%20-%20N%E1%BB%94%20The%20Album%20(ft.%20itsnk).mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d00001e02750aac5d676642cdc00abf6a",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Wren Evans",
+      "itsnk"
+    ]
+  },
+  {
+    "id": "11",
+    "ten_tac_pham": "Nội Bài",
+    "tac_gia_1": "Wren Evans",
+    "tac_gia_2": "itsnk",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/WREN%20EVANS%20-%20N%E1%BB%99i%20B%C3%A0i%20-%20N%E1%BB%94%20The%20Album%20(ft.%20itsnk).mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d00001e02750aac5d676642cdc00abf6a",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Wren Evans",
+      "itsnk"
+    ]
+  },
+  {
+    "id": "12",
+    "ten_tac_pham": "Vừa tìm thấy đã đánh mất",
+    "tac_gia_1": "Wren Evans",
+    "tac_gia_2": "itsnk",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/WREN%20EVANS%20-%20V%E1%BB%ABa%20T%C3%ACm%20Th%E1%BA%A5y%20%C4%90%C3%A3%20%C4%90%C3%A1nh%20M%E1%BA%A5t%20-%20N%E1%BB%94%20The%20Album%20(ft.%20itsnk).mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d00001e02750aac5d676642cdc00abf6a",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Wren Evans",
+      "itsnk"
+    ]
+  },
+  {
+    "id": "13",
+    "ten_tac_pham": "Yêu 4 Real",
+    "tac_gia_1": "Wren Evans",
+    "tac_gia_2": "itsnk",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/WREN%20EVANS%20-%20Y%C3%AAu%204%20Real%20-%20N%E1%BB%94%20The%20Album%20(ft.%20itsnk).mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d00001e02750aac5d676642cdc00abf6a",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Wren Evans",
+      "itsnk"
+    ]
+  },
+  {
+    "id": "14",
+    "ten_tac_pham": "Mưa chưa tạnh ( interlude )",
+    "tac_gia_1": "Wren Evans",
+    "tac_gia_2": "itsnk",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/WREN%20EVANS%20-%20m%C6%B0a%20ch%C6%B0a%20t%E1%BA%A1nh%20(interlude)%20-%20N%E1%BB%94%20The%20Album%20(ft.%20itsnk).mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d00001e02750aac5d676642cdc00abf6a",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Wren Evans",
+      "itsnk"
+    ]
+  },
+  {
+    "id": "15",
+    "ten_tac_pham": "Ben Anh",
+    "tac_gia_1": "Eren",
+    "tac_gia_2": "Lil liem",
+    "tac_gia_3": "Sơn Tày ABC",
+    "tac_gia_4": "",
+    "the_loai": "rap",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/EREN%20-%20BEN%20ANH%20(ft.%20Lil%20Liem)%20-%20OFFICIAL%20VISUAL.mp3",
+    "link_anh": "https://i.ytimg.com/vi/qjd7j5YUWM8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA5j-xuUVkLP8f47nV0BaNHnxA-Aw",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "46",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Eren",
+      "Lil liem",
+      "Sơn Tày ABC"
+    ]
+  },
+  {
+    "id": "16",
+    "ten_tac_pham": "Và thế giới đã mất đi một người cô đơn",
+    "tac_gia_1": "Marzuz",
+    "tac_gia_2": "Changg",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/V%C3%A0%20Th%E1%BA%BF%20Gi%E1%BB%9Bi%20%C4%90%C3%A3%20M%E1%BA%A5t%20%C4%90i%20M%E1%BB%99t%20Ng%C6%B0%E1%BB%9Di%20C%C3%B4%20%C4%90%C6%A1n.mp3",
+    "link_anh": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/2/0/5/9205986d16241add29e789065190a7ad.jpg",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "40",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Marzuz",
+      "Changg"
+    ]
+  },
+  {
+    "id": "17",
+    "ten_tac_pham": "Nghe kể năm 90s",
+    "tac_gia_1": "Ân ngờ",
+    "tac_gia_2": "Suzie MK",
+    "tac_gia_3": "Zer Nguyễn",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/Nghe%20k%E1%BB%83%20n%C4%83m%2090s%20-%20%C3%82n%20ng%E1%BB%9D%20ft.%20Suzie%20MK%20%5B%20EP-%20N%C3%A0y%20Hay%20%5D.mp3",
+    "link_anh": "https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/2/6/1/b/261b2c58716efedba8a523389cc5d951.jpg",
+    "link_video_nen": "",
+    "link_lyric": "https://raw.githubusercontent.com/duongminhtri784-creator/lyric-yuu/refs/heads/main/Nghe%20k%E1%BB%83%20n%C4%83m%2090s%20-%20%C3%82n%20ng%E1%BB%9D%20ft.%20Suzie%20MK%20%5B%20EP-%20N%C3%A0y%20Hay%20%5D%20(Vietnamese).srt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Ân ngờ",
+      "Suzie MK",
+      "Zer Nguyễn"
+    ]
+  },
+  {
+    "id": "18",
+    "ten_tac_pham": "Vườn mây vừa hay",
+    "tac_gia_1": "Ân ngờ",
+    "tac_gia_2": "MYLINA",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/V%C6%B0%E1%BB%9Dn%20m%C3%A2y%20v%E1%BB%ABa%20hay%20-%20%C3%82n%20ng%E1%BB%9D%20ft.%20MYLINA%20%5BOfficial%20Video%5D.mp3",
+    "link_anh": "https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/0/f/c/b/0fcb4f8bbc510c72da4d61d49a110193.jpg",
+    "link_video_nen": "",
+    "link_lyric": "https://raw.githubusercontent.com/duongminhtri784-creator/lyric-yuu/refs/heads/main/V%C6%B0%E1%BB%9Dn%20m%C3%A2y%20v%E1%BB%ABa%20hay%20-%20%C3%82n%20ng%E1%BB%9D%20ft.%20MYLINA%20%5BOfficial%20Video%5D%20(Vietnamese).srt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Ân ngờ",
+      "MYLINA"
+    ]
+  },
+  {
+    "id": "19",
+    "ten_tac_pham": "World is mine - anime ver",
+    "tac_gia_1": "Iroha",
+    "tac_gia_2": "Kaguya",
+    "tac_gia_3": "Yachiyo",
+    "tac_gia_4": "",
+    "the_loai": "Jpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/-World%20is%20Mine%20CPK!%20Remix-%20Sing%20Along%20-%20Cosmic%20Princess%20Kaguya!%20-%20Netflix%20Anime.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d00001e02673491da8ab55a41c715409d",
+    "link_video_nen": "",
+    "link_lyric": "https://raw.githubusercontent.com/duongminhtri784-creator/lyric-yuu/refs/heads/main/-World%20is%20Mine%20CPK!%20Remix-%20Sing%20Along%20-%20Cosmic%20Princess%20Kaguya!%20-%20Netflix%20Anime%20(Tie%CC%82%CC%81ng%20Vie%CC%A3%CC%82t).srt",
+    "thoi_diem_diep_khuc": "60",
+    "Ngày PH": "",
+    "Lang": "jp",
+    "tac_gia": [
+      "Iroha",
+      "Kaguya",
+      "Yachiyo"
+    ]
+  },
+  {
+    "id": "20",
+    "ten_tac_pham": "星降る海",
+    "tac_gia_1": "Yachiyo",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Jpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/%E6%9C%AC%E7%B7%A8%E3%83%A9%E3%82%A4%E3%83%95%E3%82%99%E3%82%B7%E3%83%BC%E3%83%B3%E6%98%9F%E9%99%8D%E3%82%8B%E6%B5%B7%20%20Aqu3ra%20-%20%E6%9C%88%E8%A6%8B%E3%83%A4%E3%83%81%E3%83%A8(cv.%E6%97%A9%E8%A6%8B%E6%B2%99%E7%B9%94)%20from%20%23%E8%B6%85%E3%81%8B%E3%81%8F%E3%82%99%E3%82%84%E5%A7%AB%20.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d00001e02673491da8ab55a41c715409d",
+    "link_video_nen": "",
+    "link_lyric": "https://raw.githubusercontent.com/duongminhtri784-creator/lyric-yuu/refs/heads/main/%E6%9C%AC%E7%B7%A8%E3%83%A9%E3%82%A4%E3%83%95%E3%82%99%E3%82%B7%E3%83%BC%E3%83%B3%E6%98%9F%E9%99%8D%E3%82%8B%E6%B5%B7%20%20Aqu3ra%20-%20%E6%9C%88%E8%A6%8B%E3%83%A4%E3%83%81%E3%83%A8(cv.%E6%97%A9%E8%A6%8B%E6%B2%99%E7%B9%94)%20from%20%23%E8%B6%85%E3%81%8B%E3%81%8F%E3%82%99%E3%82%84%E5%A7%AB%20%20(Tie%CC%82%CC%81ng%20Nha%CC%A3%CC%82t)%20(1).srt",
+    "thoi_diem_diep_khuc": "104",
+    "Ngày PH": "",
+    "Lang": "jp",
+    "tac_gia": [
+      "Yachiyo"
+    ]
+  },
+  {
+    "id": "21",
+    "ten_tac_pham": "Remember",
+    "tac_gia_1": "Kaguya",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Jpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/Cosmic%20Princess%20Kaguya!%20Insert%20Song%20-%20Remember%20with%20Kan-Rom-En.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d00001e02673491da8ab55a41c715409d",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "50",
+    "Ngày PH": "",
+    "Lang": "jp",
+    "tac_gia": [
+      "Kaguya"
+    ]
+  },
+  {
+    "id": "22",
+    "ten_tac_pham": "Lazy",
+    "tac_gia_1": "PonPieHi",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/Lazy.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b27378d4adb95394a1aaad18f82e",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "",
+    "tac_gia": [
+      "PonPieHi"
+    ]
+  },
+  {
+    "id": "23",
+    "ten_tac_pham": "Spaghetti",
+    "tac_gia_1": "LE SSERAFIM",
+    "tac_gia_2": "j-hope",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Kpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/LE%20SSERAFIM%20(%E1%84%85%E1%85%B3%E1%84%89%E1%85%A6%E1%84%85%E1%85%A1%E1%84%91%E1%85%B5%E1%86%B7)%20'SPAGHETTI%20(feat.%20j-hope%20of%20BTS)'%20OFFICIAL%20MV.mp3",
+    "link_anh": "https://photo-resize-zmp3.zmdcdn.me/w256_r1x1_jpeg/cover/6/d/6/5/6d65345f2d840f2d778fdeefee6b1bf5.jpg",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "81",
+    "Ngày PH": "",
+    "Lang": "kr",
+    "tac_gia": [
+      "LE SSERAFIM",
+      "j-hope"
+    ]
+  },
+  {
+    "id": "24",
+    "ten_tac_pham": "Magnetic",
+    "tac_gia_1": "ILLIT",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Kpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/ILLIT%20(%E1%84%8B%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%85%E1%85%B5%E1%86%BA)%20Magnetic%20Official%20MV.mp3",
+    "link_anh": "https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/5/d/9/1/5d910778bd8de02f62e133bd729d56ff.jpg",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "kr",
+    "tac_gia": [
+      "ILLIT"
+    ]
+  },
+  {
+    "id": "25",
+    "ten_tac_pham": "Không thời gian",
+    "tac_gia_1": "Dương Domic",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/Kho%CC%82ng%20Tho%CC%9B%CC%80i%20Gian%20-%20Du%CC%9Bo%CC%9Bng%20Domic%20(Official%20Visualizer).mp3",
+    "link_anh": "https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/a/1/4/5/a145d2feb33de92c02e58f83970db732.jpg",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Dương Domic"
+    ]
+  },
+  {
+    "id": "26",
+    "ten_tac_pham": "Ngàn năm ánh sáng",
+    "tac_gia_1": "Đặng Vĩnh Thịnh",
+    "tac_gia_2": "BMZ",
+    "tac_gia_3": "Nguyễn Trung Đức",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/NGA%CC%80N%20NA%CC%86M%20A%CC%81NH%20SA%CC%81NG%20-%20%C4%90A%CC%A3%CC%86NG%20VI%CC%83NH%20THI%CC%A3NH%20(Official%20Lyric%20Video).mp3",
+    "link_anh": "https://photo-resize-zmp3.zmdcdn.me/w256_r1x1_jpeg/cover/1/c/5/1/1c5156b7178b85af6093756e0db74279.jpg",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Đặng Vĩnh Thịnh",
+      "BMZ",
+      "Nguyễn Trung Đức"
+    ]
+  },
+  {
+    "id": "27",
+    "ten_tac_pham": "Từng Ngày yêu em",
+    "tac_gia_1": "buitruonglinh",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/Tu%CC%9B%CC%80ng%20Nga%CC%80y%20Ye%CC%82u%20Em%20-%20buitruonglinh.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b273fe0cbef064f18008462d29ef",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "buitruonglinh"
+    ]
+  },
+  {
+    "id": "28",
+    "ten_tac_pham": "Ai ngoài anh",
+    "tac_gia_1": "VSTRA",
+    "tac_gia_2": "Tyronee",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/VSTRA%20-%20Ai%20Ngoa%CC%80i%20Anh%20(Official%20Audio).mp3",
+    "link_anh": "https://photo-resize-zmp3.zmdcdn.me/w256_r1x1_jpeg/cover/e/e/2/3/ee2340d69ab29f4da3c2bdab9b33112d.jpg",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "VSTRA",
+      "Tyronee"
+    ]
+  },
+  {
+    "id": "29",
+    "ten_tac_pham": "Mất kết nối",
+    "tac_gia_1": "Dương Domic",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/Du%CC%9Bo%CC%9Bng%20Domic%20-%20Ma%CC%82%CC%81t%20Ke%CC%82%CC%81t%20No%CC%82%CC%81i%20-%20EP%20'Du%CC%9B%CC%83%20Lie%CC%A3%CC%82u%20Quy%CC%81'.mp3",
+    "link_anh": "https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/8/c/1/6/8c166e2b9a0e45ca9a6c7bef40a81f74.jpg",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Dương Domic"
+    ]
+  },
+  {
+    "id": "30",
+    "ten_tac_pham": "Tràn bộ nhớ",
+    "tac_gia_1": "Dương Domic",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/Tra%CC%80n%20Bo%CC%A3%CC%82%20Nho%CC%9B%CC%81%20-%20Du%CC%9Bo%CC%9Bng%20Domic%20-%20Lyrics%20Video.mp3",
+    "link_anh": "https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/8/c/1/6/8c166e2b9a0e45ca9a6c7bef40a81f74.jpg",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Dương Domic"
+    ]
+  },
+  {
+    "id": "31",
+    "ten_tac_pham": "Người đầu tiên",
+    "tac_gia_1": "Juky San",
+    "tac_gia_2": "buitruonglinh",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/Ngu%CC%9Bo%CC%9B%CC%80i%20%C4%90a%CC%82%CC%80u%20Tie%CC%82n%20-%20Juky%20San%20feat.%20buitruonglinh.mp3",
+    "link_anh": "https://photo-resize-zmp3.zmdcdn.me/w256_r1x1_jpeg/cover/6/8/c/9/68c95397051202625f2a0d5be7b4c009.jpg",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Juky San",
+      "buitruonglinh"
+    ]
+  },
+  {
+    "id": "32",
+    "ten_tac_pham": "Pin dự phòng",
+    "tac_gia_1": "Dương Domic",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/Du%CC%9Bo%CC%9Bng%20Domic%20ft.%20Lou%20Hoa%CC%80ng%20-%20Pin%20Du%CC%9B%CC%A3%20Pho%CC%80ng%20-%20EP%20'Du%CC%9B%CC%83%20Lie%CC%A3%CC%82u%20Quy%CC%81'.mp3",
+    "link_anh": "https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/8/c/1/6/8c166e2b9a0e45ca9a6c7bef40a81f74.jpg",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Dương Domic"
+    ]
+  },
+  {
+    "id": "33",
+    "ten_tac_pham": "Daobuochongkong1999",
+    "tac_gia_1": "NHONHO mơi nhạc",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/%5BBA%CC%89N%20VIRAL%5D%20DA%CC%A3O%20BU%CC%9BO%CC%9B%CC%81C%20HONGKONG%201999%20(Lo%CC%9B%CC%80i%20Vie%CC%A3%CC%82t%20Sa%CC%81t%20Nghi%CC%83a)%E6%BC%AB%E6%AD%A5%E9%A6%99%E6%B8%AF1999%20(%E4%BC%B4%E5%A5%8F)%20BI%CC%A3%20XOA%CC%81.mp3",
+    "link_anh": "https://photo-resize-zmp3.zmdcdn.me/w256_r1x1_jpeg/cover/6/4/9/0/64909c3fe1b4b25b5ca0da9fd99039d1.jpg",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "cn",
+    "tac_gia": [
+      "NHONHO mơi nhạc"
+    ]
+  },
+  {
+    "id": "34",
+    "ten_tac_pham": "Cảm ơn người đã thức cùng tôi",
+    "tac_gia_1": "Phùng Khánh Linh",
+    "tac_gia_2": "Phạm Hải Âu",
+    "tac_gia_3": "30 Pictures",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/Ca%CC%89m%20O%CC%9Bn%20Ngu%CC%9Bo%CC%9B%CC%80i%20%C4%90a%CC%83%20Thu%CC%9B%CC%81c%20Cu%CC%80ng%20To%CC%82i%20(Original%20Soundtrack).mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b273e292ad3d0b2c9439981132e5",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Phùng Khánh Linh",
+      "Phạm Hải Âu",
+      "30 Pictures"
+    ]
+  },
+  {
+    "id": "35",
+    "ten_tac_pham": "Baby",
+    "tac_gia_1": "YOASOBI",
+    "tac_gia_2": "Ayase",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Jpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/YOASOBIBABYOfficial%20Music%20Video.mp3",
+    "link_anh": "https://i.ytimg.com/vi/tWqZxTAy7rU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBdwPv1GBO911bdiM1wBIgLvKKxvg",
+    "link_video_nen": "",
+    "link_lyric": "https://raw.githubusercontent.com/duongminhtri784-creator/lyric-yuu/refs/heads/main/YOASOBIBABYOfficial%20Music%20Video%20(Tie%CC%82%CC%81ng%20Nha%CC%A3%CC%82t).srt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "jp",
+    "tac_gia": [
+      "YOASOBI",
+      "Ayase"
+    ]
+  },
+  {
+    "id": "36",
+    "ten_tac_pham": "New me",
+    "tac_gia_1": "YOASOBI",
+    "tac_gia_2": "Ayase",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Jpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/YOASOBINew%20meOfficial%20Music%20Video.mp3",
+    "link_anh": "https://i.ytimg.com/vi/HRlW6yZo6Kc/maxresdefault.jpg",
+    "link_video_nen": "",
+    "link_lyric": "https://raw.githubusercontent.com/duongminhtri784-creator/lyric-yuu/refs/heads/main/YOASOBINew%20meOfficial%20Music%20Video%20(Tie%CC%82%CC%81ng%20Nha%CC%A3%CC%82t).srt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "jp",
+    "tac_gia": [
+      "YOASOBI",
+      "Ayase"
+    ]
+  },
+  {
+    "id": "37",
+    "ten_tac_pham": "Heart Beat",
+    "tac_gia_1": "YOASOBI",
+    "tac_gia_2": "Ayase",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Jpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/YOASOBIHEART%20BEATOfficial%20Music%20Video.mp3",
+    "link_anh": "https://i.ytimg.com/vi/ZSr3P-Rn6x0/sddefault.jpg?v=658a9643",
+    "link_video_nen": "",
+    "link_lyric": "https://raw.githubusercontent.com/duongminhtri784-creator/lyric-yuu/refs/heads/main/YOASOBIHEART%20BEATOfficial%20Music%20Video%20(Tie%CC%82%CC%81ng%20Nha%CC%A3%CC%82t).srt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "jp",
+    "tac_gia": [
+      "YOASOBI",
+      "Ayase"
+    ]
+  },
+  {
+    "id": "38",
+    "ten_tac_pham": "Watch me!",
+    "tac_gia_1": "YOASOBI",
+    "tac_gia_2": "Ayase",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Jpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/YOASOBI%20-%20Watch%20me!%20(English%20Version)%20Official%20Music%20Video.mp3",
+    "link_anh": "https://upload.wikimedia.org/wikipedia/vi/b/b7/Watch_Me%21_-_Yoasobi.png",
+    "link_video_nen": "",
+    "link_lyric": "https://raw.githubusercontent.com/duongminhtri784-creator/lyric-yuu/refs/heads/main/YOASOBI%20-%20Watch%20me!%20(English%20Version)%20Official%20Music%20Video%20(Tie%CC%82%CC%81ng%20Nha%CC%A3%CC%82t).srt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "jp",
+    "tac_gia": [
+      "YOASOBI",
+      "Ayase"
+    ]
+  },
+  {
+    "id": "39",
+    "ten_tac_pham": "Undead",
+    "tac_gia_1": "YOASOBI",
+    "tac_gia_2": "Ayase",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Jpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/YOASOBIUNDEAD%20Official%20Music%20Video%E7%89%A9%E8%AA%9E%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%99%20%E3%82%AA%E3%83%95&%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%BC%E3%82%B9%E3%82%99%E3%83%B3%E4%B8%BB%E9%A1%8C%E6%AD%8C.mp3",
+    "link_anh": "https://i.ytimg.com/vi/Jj1_mfUzjOs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDsefWXY1v_8pmPF9dSLg3hsWfxLg",
+    "link_video_nen": "",
+    "link_lyric": "https://raw.githubusercontent.com/duongminhtri784-creator/lyric-yuu/refs/heads/main/YOASOBIUNDEAD%20Official%20Music%20Video%E7%89%A9%E8%AA%9E%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%99%20%E3%82%AA%E3%83%95%26%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%BC%E3%82%B9%E3%82%99%E3%83%B3%E4%B8%BB%E9%A1%8C%E6%AD%8C%20(Tie%CC%82%CC%81ng%20Nha%CC%A3%CC%82t).srt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "jp",
+    "tac_gia": [
+      "YOASOBI",
+      "Ayase"
+    ]
+  },
+  {
+    "id": "40",
+    "ten_tac_pham": "Lỡ.",
+    "tac_gia_1": "Amy",
+    "tac_gia_2": "codydacod",
+    "tac_gia_3": "tuism",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/Lo%CC%9B%CC%83.%20-%20Official%20Music%20Video%20-%20YouTube.mp3",
+    "link_anh": "https://res-console.cloudinary.com/dl4f7drpl/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/QcyJbmhfbWHMgG5faGnMgG5oXzIwMjYtMDMtMjZfbHXMgWNfMDkuNTguMDRfbmRiZ2J0/template_primary",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Amy",
+      "codydacod",
+      "tuism"
+    ]
+  },
+  {
+    "id": "41",
+    "ten_tac_pham": "HoYoHoYo",
+    "tac_gia_1": "Hatsune Miku",
+    "tac_gia_2": "Mihoyo",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vocaloir",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/HoYoHoYo%E3%81%AB%E3%81%97%E3%81%A6%E3%81%82%E3%81%91%E3%82%99%E3%82%8B%20-%20%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%E9%8A%80%E7%8B%BCLV.999%E5%B4%A9%E5%A3%8A%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%AC%E3%82%A4%E3%83%AB%20-%20YouTube.mp3",
+    "link_anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFYaJINlfhRATbQtRKOYSj_Gj3lVrXFzgRFg&s",
+    "link_video_nen": "",
+    "link_lyric": "https://raw.githubusercontent.com/duongminhtri784-creator/lyric-yuu/refs/heads/main/HoYoHoYo%E3%81%AB%E3%81%97%E3%81%A6%E3%81%82%E3%81%91%E3%82%99%E3%82%8B%20-%20%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%E9%8A%80%E7%8B%BCLV.999%E5%B4%A9%E5%A3%8A%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%AC%E3%82%A4%E3%83%AB%20-%20YouTube%20(Tie%CC%82%CC%81ng%20Nha%CC%A3%CC%82t).srt",
+    "thoi_diem_diep_khuc": "40",
+    "Ngày PH": "",
+    "Lang": "jp",
+    "tac_gia": [
+      "Hatsune Miku",
+      "Mihoyo"
+    ]
+  },
+  {
+    "id": "42",
+    "ten_tac_pham": "Insomnia",
+    "tac_gia_1": "Eve",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Jpop",
+    "link_nhac": "https://github.com/MinnTrii/yuu/raw/refs/heads/main/Insomnia_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b273b54686226853e372258044ac",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "jp",
+    "tac_gia": [
+      "Eve"
+    ]
+  },
+  {
+    "id": "43",
+    "ten_tac_pham": "Hanaarashi",
+    "tac_gia_1": "Eve",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Jpop",
+    "link_nhac": "https://github.com/MinnTrii/yuu/raw/refs/heads/main/Hanaarashi_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b2730d130ad263d6287cd2cdc114",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "jp",
+    "tac_gia": [
+      "Eve"
+    ]
+  },
+  {
+    "id": "44",
+    "ten_tac_pham": "abyss in the world",
+    "tac_gia_1": "Eve",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Jpop",
+    "link_nhac": "https://github.com/MinnTrii/yuu/raw/refs/heads/main/abyss%20in%20the%20world_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b273b94965e545171a1ad5741244",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "jp",
+    "tac_gia": [
+      "Eve"
+    ]
+  },
+  {
+    "id": "45",
+    "ten_tac_pham": "Heart forecast",
+    "tac_gia_1": "Eve",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Jpop",
+    "link_nhac": "https://github.com/MinnTrii/yuu/raw/refs/heads/main/Kokoroyohou_spotdown.org.mp3",
+    "link_anh": "https://i1.sndcdn.com/artworks-yUJaZbyQuVMZXnfQ-VJDdYg-t500x500.jpg",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "jp",
+    "tac_gia": [
+      "Eve"
+    ]
+  },
+  {
+    "id": "46",
+    "ten_tac_pham": "Wind's Anthem",
+    "tac_gia_1": "Eve",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Jpop",
+    "link_nhac": "https://github.com/MinnTrii/yuu/raw/refs/heads/main/Wind's%20Anthem%20(feat.%20suis%20From%20Yorushika)_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b2734b3802ca0f0cde9fb1da1b2c",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "jp",
+    "tac_gia": [
+      "Eve"
+    ]
+  },
+  {
+    "id": "47",
+    "ten_tac_pham": "Cat",
+    "tac_gia_1": "Saeran Foo",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "",
+    "link_nhac": "https://github.com/MinnTrii/yuu/raw/refs/heads/main/CAT%20-%20%E8%B1%B9%E8%B1%B9%E8%B1%B9%E8%B1%B9%EF%BD%9E_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b273665aa0e6fcd3e47dd5516202",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "",
+    "tac_gia": [
+      "Saeran Foo"
+    ]
+  },
+  {
+    "id": "48",
+    "ten_tac_pham": "PPPP",
+    "tac_gia_1": "Hatsune Miku",
+    "tac_gia_2": "Kasane Teto",
+    "tac_gia_3": "TAK",
+    "tac_gia_4": "",
+    "the_loai": "Vocaloir",
+    "link_nhac": "https://github.com/MinnTrii/yuu/raw/refs/heads/main/PPPP%20(feat.%20Hatsune%20Miku,%20Kasane%20Teto)_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b273e2acdafe9b0c10beeda9a277",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "jp",
+    "tac_gia": [
+      "Hatsune Miku",
+      "Kasane Teto",
+      "TAK"
+    ]
+  },
+  {
+    "id": "49",
+    "ten_tac_pham": "Numb Numb",
+    "tac_gia_1": "Hatsune Miku",
+    "tac_gia_2": "Kasana Teto",
+    "tac_gia_3": "TAK",
+    "tac_gia_4": "",
+    "the_loai": "Vocaloir",
+    "link_nhac": "https://github.com/MinnTrii/yuu/raw/refs/heads/main/numb%20numb%20(feat.%20Hatsune%20Miku,%20Kasane%20Teto)_spotdown.org.mp3",
+    "link_anh": "https://photo-resize-zmp3.zmdcdn.me/w256_r1x1_jpeg/cover/7/9/b/b/79bb77f03d597385e9e91f20e3d1cad5.jpg",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "jp",
+    "tac_gia": [
+      "Hatsune Miku",
+      "Kasana Teto",
+      "TAK"
+    ]
+  },
+  {
+    "id": "50",
+    "ten_tac_pham": "Stay Alive",
+    "tac_gia_1": "ReZero",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Jpop",
+    "link_nhac": "https://github.com/MinnTrii/yuu/raw/refs/heads/main/STAY%20ALIVE_spotdown.org.mp3",
+    "link_anh": "https://static.wikia.nocookie.net/rezero/images/2/2d/Stay_Alive_Cover.png/revision/latest/scale-to-width-down/1200?cb=20251102215653",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "jp",
+    "tac_gia": [
+      "ReZero"
+    ]
+  },
+  {
+    "id": "51",
+    "ten_tac_pham": "Door",
+    "tac_gia_1": "ReZero",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Jpop",
+    "link_nhac": "https://github.com/MinnTrii/yuu/raw/refs/heads/main/DOOR_spotdown.org.mp3",
+    "link_anh": "https://static.wikia.nocookie.net/rezero/images/e/eb/ReZero_Character_Song_Album_Cover.png/revision/latest/scale-to-width-down/1200?cb=20251103003137",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "jp",
+    "tac_gia": [
+      "ReZero"
+    ]
+  },
+  {
+    "id": "52",
+    "ten_tac_pham": "Long Shot",
+    "tac_gia_1": "ReZero",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Jpop",
+    "link_nhac": "https://github.com/MinnTrii/yuu/raw/refs/heads/main/Long%20shot_spotdown.org.mp3",
+    "link_anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9g-jzjXIvbyxeLn_OoHhCSv0KRNDJ479zGBwiFvPQsw&s=10",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "jp",
+    "tac_gia": [
+      "ReZero"
+    ]
+  },
+  {
+    "id": "53",
+    "ten_tac_pham": "Simp Gái 808",
+    "tac_gia_1": "Low G",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/MinnTrii/yuu/raw/refs/heads/main/Simp%20Ga%CC%81i%20808.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d00001e0249f4cddd06067402ad1599dd",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Low G"
+    ]
+  },
+  {
+    "id": "54",
+    "ten_tac_pham": "Có Em",
+    "tac_gia_1": "Madihu",
+    "tac_gia_2": "Low G",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/MinnTrii/yuu/raw/refs/heads/main/Co%CC%81%20Em_spotdown.org.mp3",
+    "link_anh": "https://thethaovanhoa.mediacdn.vn/Upload/3uPkfvAxvuOpUQrmKeiDaA/files/2022/07/B/16/Madihu2_Fotor.jpg",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Madihu",
+      "Low G"
+    ]
+  },
+  {
+    "id": "55",
+    "ten_tac_pham": "falls in luv",
+    "tac_gia_1": "Côngg",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Jpop",
+    "link_nhac": "https://github.com/MinnTrii/yuu/raw/refs/heads/main/falls%20in%20luv_spotdown.org.mp3",
+    "link_anh": "https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/1/1/0/2/11028b2a230f2a08218af078c476c967.jpg",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Côngg"
+    ]
+  },
+  {
+    "id": "56",
+    "ten_tac_pham": "Seven",
+    "tac_gia_1": "Latto",
+    "tac_gia_2": "Junkook",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Kpop",
+    "link_nhac": "https://github.com/MinnTrii/yuu/raw/refs/heads/main/Seven%20(feat.%20Latto)_spotdown.org.mp3",
+    "link_anh": "https://upload.wikimedia.org/wikipedia/vi/5/5d/JungkookSeven.jpg?utm_source=vi.wikipedia.org&utm_campaign=index&utm_content=original",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "kr",
+    "tac_gia": [
+      "Latto",
+      "Junkook"
+    ]
+  },
+  {
+    "id": "57",
+    "ten_tac_pham": "Từng quen",
+    "tac_gia_1": "Wren Evans",
+    "tac_gia_2": "itsnk",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/MinnTrii/yuu/raw/refs/heads/main/Tu%CC%9B%CC%80ng%20Quen.mp3",
+    "link_anh": "https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/1/2/b/e/12bef1c42011b1c70c5becb6ce558ea6.jpg",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Wren Evans",
+      "itsnk"
+    ]
+  },
+  {
+    "id": "58",
+    "ten_tac_pham": "Dự báo thời tiết hôm nay mưa",
+    "tac_gia_1": "Grey D",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://github.com/MinnTrii/yuu/raw/refs/heads/main/GREY%20D%20-%20du%CC%9B%CC%A3%20ba%CC%81o%20tho%CC%9B%CC%80i%20tie%CC%82%CC%81t%20ho%CC%82m%20nay%20mu%CC%9Ba%20-%20official%20visualizer.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b273ae5a754183615e244cd9e971",
+    "link_video_nen": "",
+    "link_lyric": "https://github.com/MinnTrii/yuu/raw/refs/heads/main/GREY%20D%20-%20du%CC%9B%CC%A3%20ba%CC%81o%20tho%CC%9B%CC%80i%20tie%CC%82%CC%81t%20ho%CC%82m%20nay%20mu%CC%9Ba%20-%20official%20visualizer%20(Tie%CC%82%CC%81ng%20Vie%CC%A3%CC%82t).srt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Grey D"
+    ]
+  }
+]
+
