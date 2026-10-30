@@ -743,7 +743,7 @@
     "tac_gia_4": "",
     "the_loai": "Jpop",
     "link_nhac": "https://github.com/duongminhtri784-creator/e2/raw/refs/heads/main/YOASOBI%20-%20Watch%20me!%20(English%20Version)%20Official%20Music%20Video.mp3",
-    "link_anh": "https://i.scdn.co/image/ab67616d0000b273443ae326ac3aff7d8452befb",
+    "link_anh": "https://upload.wikimedia.org/wikipedia/vi/b/b7/Watch_Me%21_-_Yoasobi.png",
     "link_video_nen": "",
     "link_lyric": "https://raw.githubusercontent.com/duongminhtri784-creator/lyric-yuu/refs/heads/main/YOASOBI%20-%20Watch%20me!%20(English%20Version)%20Official%20Music%20Video%20(Tie%CC%82%CC%81ng%20Nha%CC%A3%CC%82t).srt",
     "thoi_diem_diep_khuc": "",
@@ -1172,7 +1172,7 @@
     "tac_gia_3": "",
     "tac_gia_4": "",
     "the_loai": "",
-    "link_nhac": "https://res.cloudinary.com/dl4f7drpl/video/upload/v1793322713/%E6%88%91%E7%9A%84%E6%82%B2%E4%BC%A4%E6%98%AF%E6%B0%B4%E5%81%9A%E7%9A%84%E4%BD%9C%E8%80%85%E7%89%88_eetrkd.mp3",
+    "link_nhac": "https://github.com/duongminhtri784-creator/e2/commit/a2f8dd31f18922df405ae8a48319dc94bb68a4cb#diff-5bdc76d8105f9b5f0406ea1ac19e9b6edab00b4492f0a7d9e69c7b02c4911f7e",
     "link_anh": "https://lineimg.omusic.com.tw/img/album/5286409.jpg?v=20240603190752",
     "link_video_nen": "",
     "link_lyric": "",
@@ -1278,6 +1278,158 @@
     "Lang": "cn",
     "tac_gia": [
       "Chilichill"
+    ]
+  },
+  {
+    "id": "66",
+    "ten_tac_pham": "Phải Lòng",
+    "tac_gia_1": "Thắng",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://res.cloudinary.com/dl4f7drpl/video/upload/v1793323532/Pha%CC%89i_Lo%CC%80ng_whhvjq.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d00001e02fa201fc6fbffdd089791821a",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Thắng"
+    ]
+  },
+  {
+    "id": "67",
+    "ten_tac_pham": "Xin Lỗi",
+    "tac_gia_1": "Thắng",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://res.cloudinary.com/dl4f7drpl/video/upload/v1793323482/Xin_Lo%CC%82%CC%83i_yx7gwy.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d00001e02fa201fc6fbffdd089791821a",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Thắng"
+    ]
+  },
+  {
+    "id": "68",
+    "ten_tac_pham": "Tinkerbell",
+    "tac_gia_1": "Thắng",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://res.cloudinary.com/dl4f7drpl/video/upload/v1793323490/Tinkerbell_iuwh8p.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d00001e02fa201fc6fbffdd089791821a",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Thắng"
+    ]
+  },
+  {
+    "id": "69",
+    "ten_tac_pham": "Save It For Your Boyfriends",
+    "tac_gia_1": "Thắng",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://res.cloudinary.com/dl4f7drpl/video/upload/v1793323528/Save_it_for_your_boyfriends_gf52fh.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d00001e02fa201fc6fbffdd089791821a",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Thắng"
+    ]
+  },
+  {
+    "id": "70",
+    "ten_tac_pham": "Mất Thời Gian",
+    "tac_gia_1": "Thắng",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://res.cloudinary.com/dl4f7drpl/video/upload/v1793323538/Ma%CC%82%CC%81t_Tho%CC%9B%CC%80i_Gian_fzyvpb.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d00001e02fa201fc6fbffdd089791821a",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Thắng"
+    ]
+  },
+  {
+    "id": "71",
+    "ten_tac_pham": "Limo",
+    "tac_gia_1": "Thắng",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://res.cloudinary.com/dl4f7drpl/video/upload/v1793323536/Limo_wohofn.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d00001e02fa201fc6fbffdd089791821a",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Thắng"
+    ]
+  },
+  {
+    "id": "72",
+    "ten_tac_pham": "Trước khi em tồn tại",
+    "tac_gia_1": "Thắng",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://res.cloudinary.com/dl4f7drpl/video/upload/v1793323487/Tru%CC%9Bo%CC%9B%CC%81c_Khi_Em_To%CC%82%CC%80n_Ta%CC%A3i_rao3iz.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d00001e02fa201fc6fbffdd089791821a",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Thắng"
+    ]
+  },
+  {
+    "id": "73",
+    "ten_tac_pham": "Sober Song",
+    "tac_gia_1": "Thắng",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://res.cloudinary.com/dl4f7drpl/video/upload/v1793323524/Sober_Song_uoztud.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d00001e02fa201fc6fbffdd089791821a",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Thắng"
     ]
   }
 ]
