@@ -1840,7 +1840,7 @@
   },
   {
     "id": "95",
-    "ten_tac_pham": "月が綺麗ねと言われたい",
+    "ten_tac_pham": "月が綺麗ねと言われたい",
     "tac_gia_1": "柿崎ユウタ",
     "tac_gia_2": "",
     "tac_gia_3": "",
@@ -2183,6 +2183,26 @@
     "Lang": "jp",
     "tac_gia": [
       "Gumi"
+    ]
+  },
+  {
+    "id": "113",
+    "ten_tac_pham": "1% Battery Girl",
+    "tac_gia_1": "Chilichill",
+    "tac_gia_2": "ZZZ",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "",
+    "link_nhac": "https://res.cloudinary.com/dl4f7drpl/video/upload/v1793878174/Phoenix_EP_-_-1__Battery_Girl-_-_Zenless_Zone_Zero_woaqob.mp3",
+    "link_anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7lDIQ8lQBifM9U2hHXxWVSndEEyQXCw2Fz7yhzRnoIg&s",
+    "link_video_nen": "",
+    "link_lyric": "https://raw.githubusercontent.com/MinnTrii/nemulyric/refs/heads/main/Phoenix%20EP%20-%20-1_%20Battery%20Girl-%20-%20Zenless%20Zone%20Zero%20(Ti%E1%BA%BFng%20Anh).srt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "cn",
+    "tac_gia": [
+      "Chilichill",
+      "ZZZ"
     ]
   }
 ]
