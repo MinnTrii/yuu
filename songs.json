@@ -1840,7 +1840,7 @@
   },
   {
     "id": "95",
-    "ten_tac_pham": "月が綺麗ねと言われたい",
+    "ten_tac_pham": "月が綺麗ねと言われたい",
     "tac_gia_1": "柿崎ユウタ",
     "tac_gia_2": "",
     "tac_gia_3": "",
@@ -2190,11 +2190,11 @@
     "ten_tac_pham": "1% Battery Girl",
     "tac_gia_1": "Chilichill",
     "tac_gia_2": "ZZZ",
-    "tac_gia_3": "",
+    "tac_gia_3": "Hoyo-MiX",
     "tac_gia_4": "",
     "the_loai": "",
     "link_nhac": "https://res.cloudinary.com/dl4f7drpl/video/upload/v1793878174/Phoenix_EP_-_-1__Battery_Girl-_-_Zenless_Zone_Zero_woaqob.mp3",
-    "link_anh": "https://i.scdn.co/image/ab67616d0000b2734da93cf1ca47c0fa07e04c0d",
+    "link_anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7lDIQ8lQBifM9U2hHXxWVSndEEyQXCw2Fz7yhzRnoIg&s",
     "link_video_nen": "https://res.cloudinary.com/dl4f7drpl/video/upload/v1794114184/Phoenix_EP_-_-1__Battery_Girl-_-_Zenless_Zone_Zero_ghij2p.mp4",
     "link_lyric": "https://raw.githubusercontent.com/MinnTrii/nemulyric/refs/heads/main/Phoenix%20EP%20-%20-1_%20Battery%20Girl-%20-%20Zenless%20Zone%20Zero%20(Ti%E1%BA%BFng%20Anh).srt",
     "thoi_diem_diep_khuc": "",
@@ -2202,7 +2202,28 @@
     "Lang": "cn",
     "tac_gia": [
       "Chilichill",
-      "ZZZ"
+      "ZZZ",
+      "Hoyo-MiX"
+    ]
+  },
+  {
+    "id": "114",
+    "ten_tac_pham": "pinKing",
+    "tac_gia_1": "Chilichill",
+    "tac_gia_2": "Hoyo-MiX",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794220444/Caesar_EP_-_-pinKing-_-_Zenless_Zone_Zero.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b273053491131955d059d22a97d7",
+    "link_video_nen": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794220313/Caesar_EP_-_-pinKing-_-_Zenless_Zone_Zero.mp4",
+    "link_lyric": "https://github.com/MinnTrii/nemulyric/raw/refs/heads/main/pinKing%20-%20HOYO-MiX,%20Sa%CC%84n-Z.txt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "cn",
+    "tac_gia": [
+      "Chilichill",
+      "Hoyo-MiX"
     ]
   }
 ]
